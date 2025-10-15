@@ -22,7 +22,5 @@ Arborescence minimale
 
 Conseils
 - Ouvrez `index.html` avec Live Server.
-- Les dossiers `data/`, `docs/`, `sql/` seront ajoutés plus tard (S5, S14, S12).
-- Pour la variante multi‑pages, voir la branche `multi-page`.
 
 Auteur: (à compléter par l’élève)
